@@ -1,5 +1,5 @@
 # eccdemo8
-Interactive Reed Solomon ECC demo program
+Interactive Reed Solomon ECC demo program for GF(2^8)
 
 User interface - the program displays a list of alphas and field polynomials
 and prompts the user to select one. It then prompts if the user want to use
